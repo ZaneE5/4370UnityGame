@@ -6,8 +6,7 @@ https://assetstore.unity.com/packages/templates/connect-four-starter-kit-19722 f
 
 https://assetstore.unity.com/packages/3d/environments/low-poly-fps-map-lite-258453 for the map asset that I used to make the maze
 
-https://roboticsproject.readthedocs.io/en/latest/ConnectFourAlgorithm.html for connect-4 specialized minimax helper functions minimax winning_move, evaluate_window, isTerminal,
-and the scoring of the minimax methods in GameController.cs
+https://roboticsproject.readthedocs.io/en/latest/ConnectFourAlgorithm.html for connect-4 specialized minimax helper functions minimax winning_move, evaluate_window, isTerminal, and the scoring of the minimax methods in GameController.cs
 
 
-Even with the connect 4 asset and the helpful minimax methods, getting both sets of code to work with each other was a pain and it might have even been easier to write it myself. Currently, the higher difficulties of the connect 4 AI run pretty slowly, because of how it has to look through every possible slice of the board for possible sequences.
+Even with the connect 4 asset and the helpful minimax methods, getting both sets of code to work with each other was a pain and it might have even been easier to write it myself. Currently, the higher difficulties of the connect 4 AI run pretty slowly, because of how it has to look through every possible slice of the board for possible sequences. Had to use Git LFS to reduce the filesize of './Captain Walk.fbx', so hopefully it still works :).
