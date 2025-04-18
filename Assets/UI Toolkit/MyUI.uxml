@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Label text="Count: " name="CoinCounter" style="left: 3%; top: 10%; right: 95%; bottom: 85%; width: 30%; height: auto; font-size: 24px; -unity-font-style: bold;" />
+    <engine:ProgressBar value="100" name="PlayerHPIndicator" style="bottom: 30%; align-items: stretch; height: 30px; left: 3%; right: 647px; top: 85%; width: 30%; justify-content: flex-start; align-self: flex-start; align-content: auto; -unity-background-image-tint-color: rgb(255, 0, 0); background-color: rgba(0, 0, 0, 0); opacity: 1; display: flex;" />
+    <engine:Label text="You must collect more coins to escape!" name="warningText" enabled="true" style="top: 20%; bottom: 0; align-self: center; align-items: stretch; -unity-font-style: bold; font-size: 20px; color: rgb(255, 0, 0); opacity: 1;" />
+</engine:UXML>

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e3ab21d26c31b747a023bee28422ada
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19722
+  packageName: Connect Four - Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/Connect Four/scripts/CameraSize.cs
+  uploadId: 82926
